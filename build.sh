@@ -1,0 +1,1 @@
+cargo build -r --bin cgi && cargo build -r --bin server
